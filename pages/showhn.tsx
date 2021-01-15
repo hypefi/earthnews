@@ -9,7 +9,7 @@ export function ShowHNRulesPage(): JSX.Element {
       <b>Show HN</b>
       <br />
       <br />
-      <p>Show HN is a way to share something that you've made on Hacker News.</p>
+      <p>Show HN is a way to share something that you've made on Earth News.</p>
       <p>
         The current Show HNs can be found via{' '}
         <Link href="/show">

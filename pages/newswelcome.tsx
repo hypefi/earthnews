@@ -6,12 +6,12 @@ import { NoticeLayout } from '../src/layouts/notice-layout';
 export function NewsWelcomePage(): JSX.Element {
   return (
     <NoticeLayout>
-      <b>Welcome to Hacker News</b>
+      <b>Welcome to Earth News</b>
       <br />
       <br />
       <p>
         <Link href="/">
-          <a>Hacker News</a>
+          <a>Earth News</a>
         </Link>{' '}
         is a bit different from other community sites, and we&#39;d appreciate it if you&#39;d take
         a minute to read the following as well as the{' '}

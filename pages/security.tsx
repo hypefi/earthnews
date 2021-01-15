@@ -6,7 +6,7 @@ import { NoticeLayout } from '../src/layouts/notice-layout';
 export function SecurityPage(): JSX.Element {
   return (
     <NoticeLayout>
-      <b>Hacker News Security</b>
+      <b>Earth News Security</b>
       <p>
         If you find a security hole, please let us know at{' '}
         <a href="mailto:security@ycombinator.com">security@ycombinator.com</a>. We try to respond
@@ -14,7 +14,7 @@ export function SecurityPage(): JSX.Element {
       </p>
       <p>
         Thanks to the following people who have discovered and responsibly disclosed security holes
-        in Hacker News:
+        in Earth News:
       </p>
       <p>
         <b>

@@ -6,7 +6,7 @@ import { NoticeLayout } from '../src/layouts/notice-layout';
 export function NewsFaqPage(): JSX.Element {
   return (
     <NoticeLayout>
-      <b>Hacker News FAQ</b>
+      <b>Earth News FAQ</b>
       <br />
       <br />
       <b>Are there rules about submissions and comments?</b>

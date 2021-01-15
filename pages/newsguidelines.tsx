@@ -6,7 +6,7 @@ import { NoticeLayout } from '../src/layouts/notice-layout';
 export function NewsGuidelinesPage(): JSX.Element {
   return (
     <NoticeLayout>
-      <b>Hacker News Guidelines</b>
+      <b>Earth News Guidelines</b>
       <br />
       <br />
       <b>What to Submit</b>
@@ -106,7 +106,7 @@ export function NewsGuidelinesPage(): JSX.Element {
         routinely. On HN, users need an identity that others can relate to.
       </p>
       <p>
-        We ban accounts that use Hacker News primarily for political or ideological battle,
+        We ban accounts that use Earth News primarily for political or ideological battle,
         regardless of which politics they favor.
         <br />
         <br />

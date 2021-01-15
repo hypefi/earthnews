@@ -1,7 +1,7 @@
 {
   "name": "hackernews",
   "version": "0.9.0",
-  "description": "A hacker news clone built from the ground up to demonstrate React and GraphQL",
+  "description": "A Earth News clone built from the ground up to demonstrate React and GraphQL",
   "engines": {
     "node": ">=10.15.3"
   },

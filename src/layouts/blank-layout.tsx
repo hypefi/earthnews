@@ -7,7 +7,7 @@ export function BlankLayout(props): JSX.Element {
   return (
     <div className="WordSection1">
       <Head>
-        <title>Hacker News Clone</title>
+        <title>Earth News Clone</title>
         <meta name="referrer" content="origin" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="shortcut icon" href="/static/favicon.ico" />

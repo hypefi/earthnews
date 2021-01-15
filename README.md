@@ -1,4 +1,4 @@
-<h2 align="center">Hacker News Clone React/GraphQL</h2>
+<h2 align="center">Earth News Clone React/GraphQL</h2>
 
 <p align="center">
 <a href="https://github.com/clintonwoo/hackernews-react-graphql/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/clintonwoo/hackernews-react-graphql.svg?style=social&label=Star"></a> 
@@ -7,11 +7,11 @@
 <a href="https://github.com/clintonwoo/hackernews-react-graphql/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/clintonwoo/hackernews-react-graphql.svg"></a>
 </p>
 
-This project is a clone of hacker news rewritten with universal JavaScript, using React and GraphQL. It is intended to be an example or boilerplate to help you structure your projects using production-ready technologies.
+This project is a clone of Earth News rewritten with universal JavaScript, using React and GraphQL. It is intended to be an example or boilerplate to help you structure your projects using production-ready technologies.
 
 <p align="center" margin-bottom="0">
   <a href="http://www.hnclone.win" target="_blank">
-    <img alt="Hacker News Clone Demo" width="auto" height="auto" src="docs/HN-Demo.jpg">
+    <img alt="Earth News Clone Demo" width="auto" height="auto" src="docs/HN-Demo.jpg">
   </a>
 </p>
 <p align="center">
@@ -71,7 +71,7 @@ This project is a clone of hacker news rewritten with universal JavaScript, usin
 ### Architecture Overview
 
 <p align="center">
-  <img alt="Hacker News Clone Architecture Overview" width="auto" height="400px" src="docs/HN-Clone-Architecture-overview.png">
+  <img alt="Earth News Clone Architecture Overview" width="auto" height="400px" src="docs/HN-Clone-Architecture-overview.png">
 </p>
 
 `server.ts` is the entry point. It uses Express and passes requests to Next. Next SSR renders the pages using `getServerSideProps()` hook from Apollo helper. Therefore the app makes GraphQL requests on the client or server.
