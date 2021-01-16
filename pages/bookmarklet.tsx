@@ -30,7 +30,7 @@ export function BookmarkletPage(props): JSX.Element {
         </div>
         <br />
         <br />
-        <table style={{ padding: '0px', backgroundColor: '#ff6600', width: '100%' }}>
+        <table style={{ padding: '0px', backgroundColor: '#699c78', width: '100%' }}>
           <tbody>
             <tr style={{ height: '0px' }}>
               <td style={{ padding: '0px' }} />

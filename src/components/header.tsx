@@ -15,7 +15,7 @@ export function Header(props: IHeaderProps): JSX.Element {
 
   return (
     <tr>
-      <td style={{ backgroundColor: '#00c683', padding: '0px' }}>
+      <td style={{ backgroundColor: '#699c78', padding: '0px' }}>
         <table style={{ border: '0px', padding: '2px', borderSpacing: '0px', width: '100%' }}>
           <tbody>
             <tr>

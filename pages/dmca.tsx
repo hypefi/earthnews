@@ -3,10 +3,10 @@ import * as React from 'react';
 
 import { BlankLayout } from '../src/layouts/blank-layout';
 
-const spanStyle = { fontSize: '11.5pt', fontFamily: 'Helvetica', color: '#00c683' };
+const spanStyle = { fontSize: '11.5pt', fontFamily: 'Helvetica', color: '#699c78' };
 const paragraphStyle = { marginBottom: '7.5pt', lineHeight: 'normal', background: 'white' };
 const liStyle = {
-  color: '#00c683',
+  color: '#699c78',
   marginBottom: '15.0pt',
   lineHeight: 'normal',
   background: 'white',
@@ -20,7 +20,7 @@ const paragraphStyle2 = {
   lineHeight: 'normal',
   background: 'white',
 };
-const bSpanStyle = { fontSize: '13.5pt', fontFamily: 'Helvetica', color: '#00c683' };
+const bSpanStyle = { fontSize: '13.5pt', fontFamily: 'Helvetica', color: '#699c78' };
 
 export function DMCAPage(): JSX.Element {
   return (

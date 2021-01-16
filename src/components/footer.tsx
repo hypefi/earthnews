@@ -9,7 +9,7 @@ export function Footer(): JSX.Element {
         <table style={{ height: '2px', width: '100%', borderSpacing: '0px' }}>
           <tbody>
             <tr>
-              <td style={{ backgroundColor: '#ff6600' }} />
+              <td style={{ backgroundColor: '#699c78' }} />
             </tr>
           </tbody>
         </table>
