@@ -9,14 +9,6 @@
 
 This project is a clone of Earth News rewritten with universal JavaScript, using React and GraphQL. It is intended to be an example or boilerplate to help you structure your projects using production-ready technologies.
 
-<p align="center" margin-bottom="0">
-  <a href="http://www.hnclone.win" target="_blank">
-    <img alt="Earth News Clone Demo" width="auto" height="auto" src="docs/HN-Demo.jpg">
-  </a>
-</p>
-<p align="center">
-  <a href="http://www.hnclone.win">Live Demo</a>
-</p>
 
 ## Overview
 
