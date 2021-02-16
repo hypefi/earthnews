@@ -128,6 +128,7 @@ export const NewsFeed: React.SFC<INewsFeedContainerProps> = (props) => {
   }
 
   if (data?.feed?.length) {
+    console.log(data);
     return (
       <NewsFeedView
         newsItems={data?.feed}

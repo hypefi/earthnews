@@ -8,7 +8,7 @@ export const graphiQLPath = '/graphiql';
 export const dev = process.env.NODE_ENV !== 'production';
 export const appPath = process.env.NODE_ENV === 'production' ? './dist' : './src';
 
-export const HN_DB_URI = process.env.DB_URI || 'https://hacker-news.firebaseio.com';
+export const HN_DB_URI = process.env.DB_URI || 'https://earth-news-default-rtdb.firebaseio.com/';
 export const HN_API_VERSION = process.env.HN_API_VERSION || '/v0';
 export const HN_API_URL = process.env.HN_API_URL || `${HN_DB_URI}${HN_API_VERSION}`;
 

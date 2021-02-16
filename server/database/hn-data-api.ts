@@ -12,7 +12,7 @@ if (!Firebase.apps.length) {
   Firebase.initializeApp({ databaseURL: HN_DB_URI });
 }
 
-const api = Firebase.database().ref(HN_API_VERSION);
+const api = Firebase.database().ref(HN_API_VERSION)
 
 // https://github.com/HackerNews/API
 
